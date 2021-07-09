@@ -37,27 +37,27 @@ $ termux-change-repos
 
 select the grimler mirrors
 
-$ apt upgrade
-$ apt install git
-$ git clone https://github.com/T3RR0RS-END/passgenerator.git\n
-$ sh setup.sh <br/>
-$ termux-setup-storage
-$ python3 password-gen.py
-$ python3 encrypt-decrypt.py
+$ apt upgrade  <br />  
+$ apt install git <br />  
+$ git clone https://github.com/T3RR0RS-END/passgenerator.git <br />  
+$ sh setup.sh <br />  
+$ termux-setup-storage <br />  
+$ python3 password-gen.py <br />  
+$ python3 encrypt-decrypt.py <br />  
 
-commands for windows
+commands for windows <br />  
 
-open up cmd
+open up cmd <br />  
 
-> SETUP.SH WILL NOT WORK ON WINDOWS
-> pip3 install pyaescrypt
-> python3 password-gen.py
-> python3 encrypt-decrypt.py
+> SETUP.SH WILL NOT WORK ON WINDOWS <br />  
+> pip3 install pyaescrypt <br />  
+> python3 password-gen.py <br />  
+> python3 encrypt-decrypt.py  <br />  
 
-commands for linux
+commands for linux <br />  
 
-open terminal
+open terminal <br />  
 
-$ ./setup.sh
-$ python3 password-gen.py
-$ python3 encrypt-decrypt.py
+$ ./setup.sh <br />  
+$ python3 password-gen.py  <br />  
+$ python3 encrypt-decrypt.py  <br />  
