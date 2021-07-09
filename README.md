@@ -39,8 +39,8 @@ select the grimler mirrors
 
 $ apt upgrade
 $ apt install git
-$ git clone https://github.com/T3RR0RS-END/passgenerator.git
-$ sh setup.sh
+$ git clone https://github.com/T3RR0RS-END/passgenerator.git\n
+$ sh setup.sh <br/>
 $ termux-setup-storage
 $ python3 password-gen.py
 $ python3 encrypt-decrypt.py
