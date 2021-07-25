@@ -1,4 +1,4 @@
-NOTE; I HAVE TO MODIFY THE ENCRYPTION FILE AND MAKE IT COMPATABLE WITH WINDOWS <br />
+ENCRYPTION TOOL NOW COMPATIBLE WITH WINDOWS <br />
 
 Contents
 --------
@@ -7,6 +7,7 @@ In this file you will find the following tools coded by // xtc
 
 -> Password-gen.py
 -> encrypt-decrypt.py
+-> win-encrypt-decrypt.py
 
 Basic Summary of tools
 ----------------------
@@ -54,7 +55,7 @@ open up cmd <br />
 > SETUP.SH WILL NOT WORK ON WINDOWS <br />  
 > pip3 install pyaescrypt <br />  
 > python3 password-gen.py <br />  
-> python3 encrypt-decrypt.py  <br />  
+> python3 win-encrypt-decrypt.py  <br />  
 
 commands for linux <br />  
 
